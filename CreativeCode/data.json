@@ -1,0 +1,9 @@
+{'ok': 
+    True, 
+    'result': 
+    [{'update_id': 385295881, 'message': 
+        {'message_id': 1, 'from': 
+            {'id': 241607124, 'is_bot': False, 'first_name': 'A', 'last_name': 'K', 'username':
+    'KizatovArman', 'language_code': 'ru'}, 'chat': {'id': 241607124, 'first_name': 'A', 'last_name': 'K', 'username': 'KizatovArman', 'type': 'private'}, 'date': 1551171630, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}}, {'update_id': 385295882, 'message': {'message_id': 2, 'from': {'id': 241607124, 'is_bot': False, 'first_name': 'A', 'last_name': 'K', 'username': 'KizatovArman', 'language_code': 'ru'}, 'chat': {'id': 241607124, 'first_name': 'A', 'last_name': 'K', 'username': 'KizatovArman', 'type': 'private'}, 'date': 1551171640, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}}]}
+
+    '503945663:AAHbe-xAAJj5W31FX7tkyoju5KhQEF_Aeos'
